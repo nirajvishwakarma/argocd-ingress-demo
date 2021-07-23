@@ -12,7 +12,7 @@ metadata:
   namespace: hotel
 spec:
   rules:
-  - host: www.NIRAJBOSS.tk 
+  - host: WWW.NIRAJBOSS.TK 
     http:
       paths:
       - path: /
